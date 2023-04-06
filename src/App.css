@@ -1,0 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Questrial&display=swap);a,a:hover{color:unset}.section__title,h1,h2,h3{font-weight:700}:root{--primary-color:rgb(111, 85, 242);--heading-color:#132742;--bg-gradient:linear-gradient(
+  90deg,
+  rgba(103, 101, 240, 1) 27%,
+  rgba(141, 141, 235, 1) 85%
+);--font-name:"Questrial",sans-serif}*{margin:0;padding:0;box-sizing:border-box;scroll-behavior:smooth}body{width:100%;font-family:var(--font-name)}section{width:100%;padding:50px 0}a{text-decoration:none}ul{list-style:none}.container{width:90%;margin:auto;padding:0 25px}.section__title{color:var(--heading-color)}
